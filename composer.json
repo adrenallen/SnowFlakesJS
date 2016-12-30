@@ -1,0 +1,13 @@
+{
+    "name": "adrenallen/SnowFlakeJS",
+    "description": "A javascript snowstorm",
+    "keywords": ["javascript", "snow"],
+    "homepage": "https://github.com/adrenallen/SnowFlakeJS",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Garrett Allen",
+            "email": "garrett@adrenallen.com"
+        }
+    ]
+}
